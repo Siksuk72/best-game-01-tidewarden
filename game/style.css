@@ -1,0 +1,21 @@
+/* TIDEWARDEN — page shell. The game itself is drawn on canvas; this is only the frame. */
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #04161c; }
+body {
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  color: #eaf6f6;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrap { padding: 12px; text-align: center; }
+canvas {
+  display: block;
+  width: min(1280px, 96vw);
+  height: auto;
+  background: #062a33;
+  box-shadow: 0 0 0 2px #0f5566, 0 0 60px rgba(46, 196, 182, 0.18);
+  cursor: pointer;
+}
+.hint { margin: 10px 0 0; font-size: 13px; color: #9fc3c9; }

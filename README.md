@@ -1,5 +1,9 @@
 # TIDEWARDEN — Hold the Last Harbor
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Siksuk72/best-game-01-tidewarden/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Siksuk72/best-game-01-tidewarden/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 A 2D canvas tower-defence game for make.fun bounty **best-game-01** (round 5).
 The drowned horde sails in from the sea gate; build towers on the stone pier,
 spend your gold wisely, and keep the Harbor Heart burning for 30 waves.
@@ -71,3 +75,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 MIT — see `LICENSE`. Original idea, art, sounds and names; nothing copied
 from any commercial game.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hz26ha21&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
